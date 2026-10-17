@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.streamlit/
+*.pyc
+QuantLib-master.zip
+Riskfolio-Lib-master.zip
